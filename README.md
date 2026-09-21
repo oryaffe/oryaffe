@@ -2,7 +2,7 @@
 
 Building AI agents and intelligent tools for real technical workflows.
 
-Currently focused on **AI Engineering**: RAG, MCP, Python, LLM tool use, APIs, and cloud deployment. Cybersecurity is the domain I know well and apply when the workflow is security.
+Currently focused on **AI Engineering**: RAG, MCP, Python, LLM tool use, APIs, and cloud deployment. Cybersecurity is my domain expertise, which I apply to security-focused AI workflows.
 
 ## Featured
 
