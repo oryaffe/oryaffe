@@ -1,16 +1,25 @@
-## Hi there 👋
+# Ory Yaffe Mordechai
 
-<!--
-**oryaffe/oryaffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building AI agents and intelligent tools for real technical workflows.
 
-Here are some ideas to get you started:
+Currently focused on **AI Engineering**: RAG, MCP, Python, LLM tool use, APIs, and cloud deployment. Cybersecurity is the domain I know well and apply when the workflow is security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured
+
+### [Security Findings Agent](https://github.com/oryaffe/SecurityFindingsAgent)
+
+An AI-powered vulnerability and exposure support agent.
+
+Ask hardening questions, retrieve findings on your assets, and open a remediation ticket - browser chat or CLI.
+
+**RAG · LLM tool use · MCP · SQLite · FastAPI · WebSocket · AWS EC2**
+
+## Now
+
+Hands-on AI Engineering projects. Learning DevOps and moving those systems closer to production.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/oryaffe)
+
+Israel · Open to international AI engineering and AI-for-security roles
