@@ -1,10 +1,10 @@
 # Ory Yaffe Mordechai
 
-**Senior Security Analyst | Security Operations | Technical Investigations | AI Agents & Automation**
+**Senior Security Analyst | AI Engineering | Security Operations & Automation**
 
-I'm a cybersecurity professional with experience in security operations, incident response, threat hunting, and exposure validation. I also build Python-based AI agents that connect language models to tools, policies, and operational data.
+I combine hands-on cybersecurity experience with AI engineering to build tools that support security analysis, technical investigations, and remediation workflows. Using Python, RAG, MCP, and LLM tool orchestration, I develop agents that connect security policies with operational data to support evidence-based decisions.
 
-My background spans in-house security operations, MSSP/SOC environments, and Tier 3 technical investigations with R&D and Product teams. I bring that operational perspective to the AI systems I build.
+My background spans security operations, incident response, threat hunting, and exposure validation across in-house teams and MSSP/SOC environments, including Tier 3 investigations with R&D and Product teams. I use that experience to shape AI applications around operational security needs, with attention to access control, traceability, and response quality.
 
 ## What I bring
 
