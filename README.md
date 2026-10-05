@@ -20,7 +20,7 @@ An AI agent for investigating recorded security findings and tracking remediatio
 - Runs locally and has been deployed on **AWS EC2**.
 
 My contributions include adapting the security data model and remediation workflows, adding authentication and ownership-scoped tool access, 
-And developing rule-based checks for selected policy and operational claims in the agent's responses. 
+and developing rule-based checks for selected policy and operational claims in the agent's responses. 
 When these checks detect a violation, the agent attempts to correct its response.
 
 The demo uses synthetic records and sample policies.
@@ -34,6 +34,6 @@ I completed an AI Engineering program and am currently studying DevOps. I'm cont
 ## Connect
 
 Based in Israel. Open to cybersecurity opportunities that match my experience, including senior analyst, security operations, technical investigation, and technical leadership roles, 
-As well as Junior AI Engineer opportunities across different domains.
+as well as Junior AI Engineer opportunities across different domains.
 
 [LinkedIn](https://www.linkedin.com/in/oryaffe)
